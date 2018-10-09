@@ -1,0 +1,10 @@
+@media (min-width: 768px) {
+	.navbar-nav .nav-link {
+		padding: 8px 20px;
+	}
+}
+@media (max-width: 767px) {
+	.navbar-nav {
+		background: var(--gradient_bg);
+	}
+}
